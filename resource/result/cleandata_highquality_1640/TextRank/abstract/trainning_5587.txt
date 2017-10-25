@@ -1,0 +1,3 @@
+AlphaGo一方的旗帜是英国国旗，因为这次参赛的谷歌围棋程序AlphaGo来自英国人工智能公司DeepMind
+AlphaGo与李世石对战棋谱(李世石执黑)
+谷歌为何要做人工智能围棋程序AlphaGo

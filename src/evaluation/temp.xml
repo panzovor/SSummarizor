@@ -1,0 +1,35 @@
+<ROUGE-EVAL version="1.0">
+<EVAL ID="1">
+<PEER-ROOT>
+Example
+</PEER-ROOT>
+<MODEL-ROOT>
+Example
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="X">Guess_Summ_1.txt</P>
+</PEERS>
+<MODELS><M ID="A">Ref_Summ_1_1.txt</M>
+<M ID="B">Ref_Summ_1_2.txt</M>
+</MODELS>
+</EVAL>
+<EVAL ID="2">
+<PEER-ROOT>
+Example
+</PEER-ROOT>
+<MODEL-ROOT>
+Example
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="X">Guess_Summ_2.txt</P>
+</PEERS>
+<MODELS><M ID="A">Ref_Summ_2_1.txt</M>
+<M ID="B">Ref_Summ_2_2.txt</M>
+<M ID="C">Ref_Summ_2_3.txt</M>
+</MODELS>
+</EVAL>
+</ROUGE-EVAL>

@@ -1,0 +1,20 @@
+Fourth Version auto encoder, iter_times=20, vector=auto encoder, distance=Distance.COS
+recall = [0.45919, 0.3178, 0.2751, 0.24998]
+precision = [0.43619, 0.3016, 0.26082, 0.23677]
+F = [0.44738, 0.30948, 0.26776, 0.24319]
+Fourth Version auto encoder, iter_times=20, vector=auto encoder, distance=Distance.COS
+recall = [0.45919, 0.3178, 0.2751, 0.24998]
+precision = [0.43619, 0.3016, 0.26082, 0.23677]
+F = [0.44738, 0.30948, 0.26776, 0.24319]
+Fourth Version auto encoder, iter_times=40, vector=auto encoder, distance=Distance.COS
+recall = [0.45992, 0.3182, 0.27526, 0.24992]
+precision = [0.43597, 0.30133, 0.26041, 0.2362]
+F = [0.44762, 0.30953, 0.26763, 0.24286]
+Fourth Version auto encoder, iter_times=60, vector=auto encoder, distance=Distance.COS
+recall = [0.46179, 0.3203, 0.27744, 0.25215]
+precision = [0.43724, 0.30297, 0.26217, 0.23801]
+F = [0.44917, 0.31139, 0.26958, 0.24487]
+Fourth Version auto encoder, iter_times=80, vector=auto encoder, distance=Distance.COS
+recall = [0.4612, 0.31983, 0.27708, 0.25181]
+precision = [0.43645, 0.30235, 0.26168, 0.23756]
+F = [0.44847, 0.31084, 0.26915, 0.24447]
